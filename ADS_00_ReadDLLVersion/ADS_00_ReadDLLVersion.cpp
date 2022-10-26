@@ -1,5 +1,5 @@
 // ADS_00_ReadDLLVersion.cpp 
-// Lectura de Version del DLL ADS
+// Lectura de Version del DLL ADS 
 // 
 // @autor: José
 //

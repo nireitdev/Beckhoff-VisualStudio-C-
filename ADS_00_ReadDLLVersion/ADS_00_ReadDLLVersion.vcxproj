@@ -141,6 +141,9 @@
   <ItemGroup>
     <ClCompile Include="ADS_00_ReadDLLVersion.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Library Include="..\..\..\..\..\..\TwinCAT\AdsApi\TcAdsDll\Lib\TcAdsDll.lib" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

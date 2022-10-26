@@ -1,5 +1,5 @@
 // ADS_01_ReadADSStatus.cpp : 
-// Simple ejemplo para leer el estado del PLC
+// Leer el estado del PLC Beckhoff conectado (CX2040)
 // 
 // @autor: José
 //
