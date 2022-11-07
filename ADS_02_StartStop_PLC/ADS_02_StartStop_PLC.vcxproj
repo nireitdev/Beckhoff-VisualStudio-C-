@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{b4d94e24-d0c8-439f-a2ac-2b8a84bb179f}</ProjectGuid>
-    <RootNamespace>ADS01ReadADSStatus</RootNamespace>
+    <ProjectGuid>{eae27278-4266-4f7d-9472-9ac93f3533ea}</ProjectGuid>
+    <RootNamespace>ADS02StartStopPLC</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -142,7 +142,7 @@
     <Library Include="..\..\..\..\..\..\TwinCAT\AdsApi\TcAdsDll\Lib\TcAdsDll.lib" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ADS_01_ReadADSStatus.cpp" />
+    <ClCompile Include="ADS_02_StartStop_PLC.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

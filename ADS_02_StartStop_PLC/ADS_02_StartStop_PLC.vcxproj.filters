@@ -20,7 +20,7 @@
     </Library>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ADS_01_ReadADSStatus.cpp">
+    <ClCompile Include="ADS_02_StartStop_PLC.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>

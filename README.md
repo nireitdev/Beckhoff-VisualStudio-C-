@@ -1,6 +1,6 @@
 # Beckhoff PLC CX2040 y Visual C++
 
-Pruebas de concepto de conexión y manejo de un PLC Bekhoff tipo industrial CX2040, a través de una interfaz ADS y C++
+Pruebas de concepto de conexión y manejo de un PLC Beckhoff tipo industrial CX2040, a través de una interfaz ADS y C++
 
 ## Requerimientos
 

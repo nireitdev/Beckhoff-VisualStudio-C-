@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ADS_00_ReadDLLVersion", "AD
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ADS_01_ReadADSStatus", "ADS_01_ReadADSStatus\ADS_01_ReadADSStatus.vcxproj", "{B4D94E24-D0C8-439F-A2AC-2B8A84BB179F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ADS_02_StartStop_PLC", "ADS_02_StartStop_PLC\ADS_02_StartStop_PLC.vcxproj", "{EAE27278-4266-4F7D-9472-9AC93F3533EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{B4D94E24-D0C8-439F-A2AC-2B8A84BB179F}.Release|x64.Build.0 = Release|x64
 		{B4D94E24-D0C8-439F-A2AC-2B8A84BB179F}.Release|x86.ActiveCfg = Release|Win32
 		{B4D94E24-D0C8-439F-A2AC-2B8A84BB179F}.Release|x86.Build.0 = Release|Win32
+		{EAE27278-4266-4F7D-9472-9AC93F3533EA}.Debug|x64.ActiveCfg = Debug|x64
+		{EAE27278-4266-4F7D-9472-9AC93F3533EA}.Debug|x64.Build.0 = Debug|x64
+		{EAE27278-4266-4F7D-9472-9AC93F3533EA}.Debug|x86.ActiveCfg = Debug|Win32
+		{EAE27278-4266-4F7D-9472-9AC93F3533EA}.Debug|x86.Build.0 = Debug|Win32
+		{EAE27278-4266-4F7D-9472-9AC93F3533EA}.Release|x64.ActiveCfg = Release|x64
+		{EAE27278-4266-4F7D-9472-9AC93F3533EA}.Release|x64.Build.0 = Release|x64
+		{EAE27278-4266-4F7D-9472-9AC93F3533EA}.Release|x86.ActiveCfg = Release|Win32
+		{EAE27278-4266-4F7D-9472-9AC93F3533EA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
